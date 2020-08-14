@@ -1,0 +1,12 @@
+---
+
+'Example Name':
+    age: 'npc age'
+    trust: 'trustlevel'
+    personality: ['trait1', 'trait2']
+    notes: 'Char notes'
+'Another Name':
+    age: 'npc age'
+    trust: 'trustlevel'
+    personality: ['trait1', 'trait2']
+    notes: 'Char notes'
